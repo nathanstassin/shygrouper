@@ -1,9 +1,8 @@
 // GLOBAL VARIABLES
 var activeLabelDropdown; 
 // TODO: 
-// 1. Find Label list from user preferences
-// 2. Add square labels next to each item in the array
-// 3. 
+// 1. Find Label list from user preferences (?)
+// 2. Add square labels next to each item in the array 
 var labelList = ['None', 'Red', 'Yellow', 'Aqua', 'Pink', 'Lavender', 'Peach', 'Sea Foam', 'Blue', 'Green', 'Purple', 'Orange', 'Brown', 'Fuchsia', 'Cyan', 'Sandstone', 'Dark Green'];
 var clickablesWidth = 150;
 var clickablesHeight = 25; 
